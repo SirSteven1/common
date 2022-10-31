@@ -3,7 +3,7 @@ package jwt
 import (
 	"context"
 
-	"ken/kverso-Common/kit/convert"
+	"cxqi/common/kit/convert"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
